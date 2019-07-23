@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>めも</title>
-    <link>http://example.org/</link>
+    <link>https://yyyamada864.github.io/</link>
     <description>Recent content on めも</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2019 16:57:36 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yyyamada864.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/posts/test/</link>
+      <link>https://yyyamada864.github.io/posts/test/</link>
       <pubDate>Tue, 23 Jul 2019 16:57:36 +0900</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>https://yyyamada864.github.io/posts/test/</guid>
       <description>about this is a test.
  list1 list2 list3  test why
 img</description>
